@@ -9,3 +9,6 @@ headerLinks.addEventListener("mousedown", () => {
 });
 
 const tryNow = (document.querySelector("#try").textContent = "new text");
+
+
+console.log("Daniel^2 was here")
